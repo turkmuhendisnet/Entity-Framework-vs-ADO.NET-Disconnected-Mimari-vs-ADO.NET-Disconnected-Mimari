@@ -1,0 +1,13 @@
+Uygulama Visual Studio 2017 de yazýlmýþtýr.
+Dil olarak C# programlama kullanýlmýþtýr.
+Framework 4.64 tür.
+
+Uygulama çalýþtýrýldýðýnda 
+
+Kullanýlan data base :Northwind tir.
+program içerisinde baðlantý cümleceiði sizin sql server isminize göre deðiþtiriniz aþaðýda benim sql cümleciðim yazýlý
+
+SqlConnection connection = new SqlConnection(@"Data Source=ALICAKIR\SQLEXPRESS;Initial Catalog=Northwind;Integrated Security=True"); //NEREYE BAÐLANCAÐINI SÖYLEYEN YER
+
+Entitiy Framework ile baðlanmak için için nuget package ile Entitiy Framework indirip sql baðlantý saðlayýn.
+Benim baðlantým dosyalarýn içerisnde Model1.edmx'tir
