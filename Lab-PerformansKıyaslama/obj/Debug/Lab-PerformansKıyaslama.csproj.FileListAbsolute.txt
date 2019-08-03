@@ -1,0 +1,13 @@
+G:\Data Acces\Lab\Lab-PerformansKıyaslama\Lab-PerformansKıyaslama\obj\Debug\Lab-PerformansKıyaslama.csprojResolveAssemblyReference.cache
+G:\Data Acces\Lab\Lab-PerformansKıyaslama\Lab-PerformansKıyaslama\obj\Debug\Lab_PerformansKıyaslama.Form1.resources
+G:\Data Acces\Lab\Lab-PerformansKıyaslama\Lab-PerformansKıyaslama\obj\Debug\Lab_PerformansKıyaslama.Properties.Resources.resources
+G:\Data Acces\Lab\Lab-PerformansKıyaslama\Lab-PerformansKıyaslama\obj\Debug\Lab-PerformansKıyaslama.csproj.GenerateResource.Cache
+G:\Data Acces\Lab\Lab-PerformansKıyaslama\Lab-PerformansKıyaslama\bin\Debug\Lab-PerformansKıyaslama.exe.config
+G:\Data Acces\Lab\Lab-PerformansKıyaslama\Lab-PerformansKıyaslama\bin\Debug\Lab-PerformansKıyaslama.exe
+G:\Data Acces\Lab\Lab-PerformansKıyaslama\Lab-PerformansKıyaslama\bin\Debug\Lab-PerformansKıyaslama.pdb
+G:\Data Acces\Lab\Lab-PerformansKıyaslama\Lab-PerformansKıyaslama\bin\Debug\EntityFramework.dll
+G:\Data Acces\Lab\Lab-PerformansKıyaslama\Lab-PerformansKıyaslama\bin\Debug\EntityFramework.SqlServer.dll
+G:\Data Acces\Lab\Lab-PerformansKıyaslama\Lab-PerformansKıyaslama\bin\Debug\EntityFramework.xml
+G:\Data Acces\Lab\Lab-PerformansKıyaslama\Lab-PerformansKıyaslama\bin\Debug\EntityFramework.SqlServer.xml
+G:\Data Acces\Lab\Lab-PerformansKıyaslama\Lab-PerformansKıyaslama\obj\Debug\Lab-PerformansKıyaslama.exe
+G:\Data Acces\Lab\Lab-PerformansKıyaslama\Lab-PerformansKıyaslama\obj\Debug\Lab-PerformansKıyaslama.pdb
